@@ -9,7 +9,7 @@
     padding: 0;
     box-sizing: border-box;
 
-    outline: 1px solid red;
+    /* outline: 1px solid red; */
 
   }
   
@@ -76,7 +76,7 @@ footer {
     position: fixed;
     bottom: 0px;
     width: 100%;
-    background-color: rgb(78, 75, 96);
+    background-color: black;
     height: 2em;
     align-content: center;
     
